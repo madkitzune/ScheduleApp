@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/ScheduleApp">
+        <file>qml/Main.qml</file>
+        <file>qml/FField.qml</file>
+        <file>qml/Btn.qml</file>
+        <file>qml/SchedTable.qml</file>
+        <file>qml/RecForm.qml</file>
+        <file>qml/PageHeader.qml</file>
+        <file>qml/PageAbout.qml</file>
+        <file>qml/PageLoad.qml</file>
+        <file>qml/PageView.qml</file>
+        <file>qml/PageSave.qml</file>
+        <file>qml/PageSort.qml</file>
+        <file>qml/PageInsert.qml</file>
+        <file>qml/PageReplace.qml</file>
+        <file>qml/PageDelete.qml</file>
+        <file>qml/PageStats.qml</file>
+    </qresource>
+</RCC>

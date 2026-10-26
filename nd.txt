@@ -1,0 +1,1 @@
+# Розклад занять. Формат: subject|startHHMM|room|teacher|durationMin
